@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Salem
 
-Computer Science student at **Wayne State University** (Honors Co-Major, GPA 3.96) graduating **December 2026**. I love turning ideas into working software — from full-stack web apps to data-driven tools that solve real business problems.
+Computer Science student at **Wayne State University** (Honors Co-Major, GPA 3.96) graduating **December 2026**.
 
 🔭 **Currently working on:** Full-stack projects involving AI integration, data pipelines, and clean UI/UX  
 🌱 **Learning:** Cloud services (AWS), system design, and preparing for CompTIA Security+ and Network+  
